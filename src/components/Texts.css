@@ -1,0 +1,44 @@
+.te{
+    bottom:20rem;
+    position:relative;
+    font-family: 'KoHo', sans-serif;
+    color:white;
+}
+.text-1{
+    position: absolute;
+    left: 6%;
+    bottom: -10rem;
+    font-size: 47px;
+}
+.text-2{
+    position: absolute;
+    left: 8%;
+    top: 6rem;
+    font-size: 39px;
+}
+.text-3{
+    position: absolute;
+    left: 15%;
+    bottom: -20rem;
+    font-size: 47px;
+}
+.mask{
+    position: absolute;
+    width: 28rem;
+    left: 0rem;
+}
+.copy{
+    position: absolute;
+    color: white;
+    top: 92rem;
+    left: 66rem;
+    font-size: 15px;
+}
+.privacy{
+    position: absolute;
+    color: white;
+    top: 93.5rem;
+    left: 65rem;
+    font-size: 13px;
+    font-weight: lighter;
+}

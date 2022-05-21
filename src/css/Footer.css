@@ -1,0 +1,16 @@
+.footer{
+   position: absolute;
+   font-family: 'KoHo', sans-serif;
+
+}
+.pl{
+    color:white;
+    left:5rem;
+}
+.foot{
+    height:20rem;
+    position: absolute;
+    top:60rem;
+    left:30rem;
+    margin-top:275px;
+}
